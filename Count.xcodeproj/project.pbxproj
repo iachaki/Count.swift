@@ -13,6 +13,7 @@
 		080633CC1BAD3D1900EE4591 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 080633CB1BAD3D1900EE4591 /* Images.xcassets */; };
 		080633CF1BAD3D1900EE4591 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 080633CD1BAD3D1900EE4591 /* LaunchScreen.xib */; };
 		080633DB1BAD3D1900EE4591 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 080633DA1BAD3D1900EE4591 /* CountTests.swift */; };
+		080633E51BAD3F5800EE4591 /* 27ec15a89ba46d4220b36d6649243b8a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 080633E41BAD3F5800EE4591 /* 27ec15a89ba46d4220b36d6649243b8a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		080633D41BAD3D1900EE4591 /* CountTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		080633D91BAD3D1900EE4591 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		080633DA1BAD3D1900EE4591 /* CountTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTests.swift; sourceTree = "<group>"; };
+		080633E41BAD3F5800EE4591 /* 27ec15a89ba46d4220b36d6649243b8a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 27ec15a89ba46d4220b36d6649243b8a.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		080633C11BAD3D1900EE4591 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				080633E41BAD3F5800EE4591 /* 27ec15a89ba46d4220b36d6649243b8a.jpg */,
 				080633C41BAD3D1900EE4591 /* AppDelegate.swift */,
 				080633C61BAD3D1900EE4591 /* ViewController.swift */,
 				080633C81BAD3D1900EE4591 /* Main.storyboard */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				080633CA1BAD3D1900EE4591 /* Main.storyboard in Resources */,
+				080633E51BAD3F5800EE4591 /* 27ec15a89ba46d4220b36d6649243b8a.jpg in Resources */,
 				080633CF1BAD3D1900EE4591 /* LaunchScreen.xib in Resources */,
 				080633CC1BAD3D1900EE4591 /* Images.xcassets in Resources */,
 			);
